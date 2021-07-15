@@ -2,14 +2,10 @@
 Advertisement data given which includes TV,Radio,Newspaper so based on this data we are predicting sales revenue
 dataset can be found via this link https://www.kaggle.com/purbar/advertising-data
 data features
- 0 GRE Score int64
- 1   TOEFL Score int64  
- 2   University Rating int64  
- 3   SOP  float64
- 4   LOR  float64
- 5   CGPA float64
- 6   Research   int64  
- 7   Chance of Admit  float64
+GRE Score float
+TOEFL Score
+University Rating 
+ 
 We are approaching problem with Linear regression
 
 Conclusion
